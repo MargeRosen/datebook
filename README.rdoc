@@ -1,0 +1,11 @@
+== README
+
+Keep track of all your gigs.
+
+Enter event, description, location and date.
+
+Once an event is over, it drops off the list.
+
+
+
+
