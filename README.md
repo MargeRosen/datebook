@@ -1,5 +1,4 @@
-= README for datebook
-
+== README for datebook
 
 ** Keep track of your gigs. **
 
